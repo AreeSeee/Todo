@@ -1,0 +1,16 @@
+body{
+    background-color: yellow;
+    
+}
+.container{
+    display: flex;
+    background-color: azure;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.cbox{
+    text-align: center;
+}
+
